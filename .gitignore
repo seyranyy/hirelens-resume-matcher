@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+*.iml
+hirelens-be/target/
+hirelens-fe/node_modules/
+hirelens-fe/dist/
